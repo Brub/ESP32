@@ -6,5 +6,5 @@ Here we will give more info how to do it. (!! on MacOs)
 1. start the Arduino IDE  
 2. click the '**Arduino**' menu and click the '**Preferences**' option  
 ![](images/arduinoPreferences.png)
-4. set the following link https://dl.espressif.com/dl/package_esp32_index.json in the field '**Additional Boards Manager URLs**'
-5. click the '**OK**' button
+4. set the following link "https://dl.espressif.com/dl/package\_esp32\_index.json" in the field '**Additional Boards Manager URLs**'
+5. click the '**OK**' button  ![](images/additionalBoardsManagerUrls.png)
