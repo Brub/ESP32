@@ -2,7 +2,7 @@
 
 It's possible to use the [Arduino IDE](https://www.arduino.cc/en/main/software) to program the ESP32.  
 
-Here we will give more info how to do it. (!! on MacOs)  
+##Here we will give more info how to do it. (!! on MacOs)  
 1. start the Arduino IDE  
 2. click the '**Arduino**' -> '**Preferences**' option  
 ![](images/arduinoPreferences.png)  
